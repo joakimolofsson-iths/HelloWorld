@@ -1,2 +1,2 @@
 # HelloWorld
-Code exercises
+HelloWorld - Code Exercises
